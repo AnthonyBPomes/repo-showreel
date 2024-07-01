@@ -1,2 +1,2 @@
 # repo-showreel
-Repoistory for showcasing my work
+Repository for showcasing my work
